@@ -137,19 +137,6 @@ The AI generates an analysis such as:
    - Maintain strengths in high-scoring subjects.
 ```
 
-## 🔮 Future Improvements
-
-* [ ] Add a graphical user interface
-* [ ] Add student performance charts
-* [ ] Add grade calculation
-* [ ] Add class-level performance comparison
-* [ ] Generate downloadable reports
-* [ ] Add subject-wise recommendations
-* [ ] Add performance trends
-* [ ] Add a web interface
-* [ ] Improve error handling for invalid roll numbers
-* [ ] Allow users to upload their own CSV files
-
 ## 🎯 Purpose
 
 This project was built to explore how **Python data analysis and local AI models can be combined to create useful educational tools**.
